@@ -217,6 +217,21 @@ a:hover {
   max-width: 100%;
   height: auto;
 }
+
+/*
+my define
+*/
+ul.circle {
+  list-style-type: circle;
+  padding: 10px;
+}
+p.researchTime {
+  line-height: 0.1em;
+  margin: 10px;
+  text-align: center;
+}
+
+
 /*********************************************************************
 
 
